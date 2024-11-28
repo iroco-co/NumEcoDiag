@@ -56,6 +56,7 @@
   "criteres": [
     {
       "id": "1.1",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/1.1/",
       "critere": "Le service numérique a-t-il été évalué favorablement en termes d’utilité en tenant compte de ses impacts environnementaux ?",
       "thematique": "Stratégie",
       "objectif": "Prendre en compte l’utilité du service numérique dès sa conception et son inscription dans au moins l’un des objectifs de développement durable (ODD), l’un des enjeux de limites planétaires ou tout autre référentiel du même type.",
@@ -71,6 +72,7 @@
     },
     {
       "id": "1.2",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/1.2/",
       "critere": "Le service numérique a-t-il défini ses cibles utilisatrices, les besoins métiers et les attentes réelles des utilisateurs cibles ?",
       "thematique": "Stratégie",
       "objectif": "Pour répondre au plus juste aux utilisatrices et utilisateurs du service numérique, il est indispensable, de connaître ses cibles, leurs usages, leurs besoins et leurs comportements, afin de ne pas surcharger, les services numériques en fonctionnalités et contenus, ni les appauvrir au point qu’ils ne répondent, pas aux attentes. Sans l’identification des catégories d’utilisateurs primaires et secondaires, il est, difficile de dimensionner correctement le service numérique.\n\nLes incertitudes poussent à extrapoler les besoins souvent au-delà des attentes réelles. On peut également ne pas répondre aux « bons besoins » parce que l’on connaît mal ses utilisateurs ou l’on répond juste à ce que demande le commanditaire. Tout cela finit par être un mauvais investissement de ressources, de temps passé et des impacts environnementaux générés. Il faut éviter toute fonctionnalité non essentielle. D’autre part, il est important de vérifier qu’un ou plusieurs services existants répondent déjà au besoin, pour ne pas les dupliquer.",
@@ -86,6 +88,7 @@
     },
     {
       "id": "1.3",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/1.3/",
       "critere": "Le service numérique a-t-il au moins un référent identifié en écoconception numérique ?",
       "thematique": "Stratégie",
       "objectif": "L’écoconception numérique adresse un très large périmètre, qu’il est difficile d’appréhender complètement dans chaque phase du projet. Il est indispensable que les professionnels intervenant sur ce dernier puissent s’appuyer à tout moment sur une ou des personnes référentes qui puissent les assister dans les meilleures pratiques à déployer. La fonction de référent écoconception est importante pour garantir une cohérence entre la mise en œuvre des mesures d’écoconception, leur suivi et leur pérennité.",
@@ -101,6 +104,7 @@
     },
     {
       "id": "1.4",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/1.4/",
       "critere": "Le service numérique réalise-t-il régulièrement des revues pour s’assurer du respect de sa démarche d’écoconception ?",
       "thematique": "Stratégie",
       "objectif": "Selon le contexte, un service numérique peut évoluer : équipe qui change, ajout de contenu par les utilisateurs, traitements de plus en plus gourmands, etc. Pour veiller à ce que la démarche d’écoconception dure dans le temps, il est important de réaliser régulièrement une revue. Par ailleurs, la publication d’une déclaration d’écoconception œuvre à davantage de transparence sur la performance environnementale des services numériques à destination des utilisateurs et parties prenantes.",
@@ -117,6 +121,7 @@
     },
     {
       "id": "1.5",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/1.5/",
       "critere": "Le service numérique s’est-il fixé des objectifs en matière de réduction ou de limitation de ses propres impacts environnementaux ?",
       "thematique": "Stratégie",
       "objectif": "Connaître et réduire l’empreinte environnementale du service numérique. Cela implique d’avoir une vision globale des conséquences du service numérique, à chaque phase (début, usage, fin) et en intégrant les impacts environnementaux des équipements matériels utilisés, dans la production mais aussi dans l’usage de ce service numérique.",
@@ -132,6 +137,7 @@
     },
     {
       "id": "1.6",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/1.6/",
       "critere": "Le service numérique collecte-t-il la donnée de façon responsable et raisonnée ?",
       "thematique": "Stratégie",
       "objectif": "Cette pratique vise à encourager une collecte de données responsable et raisonnée en complément des obligations légales de minimisation prévues par le Règlement général sur la protection des données (RGPD) en ce qui concerne les données personnelles. Comme le souligne le rapport de la CNIL « Données, Empreinte et Libertés » (2023), certains impératifs de respect de la vie privée et objectifs d’écoconception se rejoignent. Il s’agira donc d’œuvrer à réduire la quantité de données collectées, traitées et stockées par le service, y compris les données non personnelles et métadonnées, pour optimiser l'utilisation des ressources informatiques. Afin de limiter le profilage des utilisateurs, consommateur en ressources, le critère vise également à restreindre la collecte et le traitement de métadonnées aux fins de *tracking*.",
@@ -147,6 +153,7 @@
     },
     {
       "id": "1.7",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/1.7/",
       "critere": "Le service a-t-il recours à un niveau de chiffrement adapté à ses besoins ?",
       "thematique": "Stratégie",
       "objectif": "Dans la plupart des situations, le recours à des mécanismes cryptographiques est absolument essentiel pour protéger les systèmes informatiques, ainsi que les données – notamment personnelles – collectées ou traitées. Ces mécanismes ont une empreinte environnementale à considérer. Par exemple, le chiffrement augmente automatiquement la consommation énergétique, d’abord par le calcul nécessaire à cette opération et au déchiffrement, mais aussi par le stockage et la charge pour les réseaux de communications. Néanmoins, ils peuvent dans certains cas permettre d’alléger les systèmes informatiques (par la compression des archives en parallèle du chiffrement, ou en évitant de conserver ou faire circuler certains fichiers). Cette pratique vise donc à promouvoir la minimisation du coût environnemental du chiffrement, en tenant compte des contraintes de sécurité à respecter. Le chiffrement contribue par ailleurs à la protection et à la sécurité des données, et réduit le risque de failles, et de fuites de données, dont les traitements ultérieurs ont une empreinte énergétique.",
@@ -162,6 +169,7 @@
     },
     {
       "id": "1.8",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/1.8/",
       "critere": "Le service numérique a-t-il mis en place des efforts d’open source ?",
       "thematique": "Stratégie",
       "objectif": "L’*open source* permet la réutilisation du code pour d’autres projets, évitant ainsi un gaspillage de ressources dédiées. La publication du code source d’un service numérique en format libre permet d’allonger la durée de vie du service en s’appuyant sur la collaboration avec les communautés de développeurs et chercheurs pour palier à d’éventuelles défaut ou ajouter de nouvelles fonctionnalités. Elle renforce également son audibilité et sa transparence, y compris d’un point de vue environnemental.\n\nL’open source est aussi un levier pour allonger la durée de vie du matériel associé à l’utilisation d’un service numérique.\n\nPar exemple, les applications ou pilotes ouverts associés à un objet connecté (enceinte, montre connectée, etc.) ou un périphérique (imprimante, etc.) permettent de suppléer à la fin de vie de programmes « propriétaires » nécessaires à leur utilisation.",
@@ -178,6 +186,7 @@
     },
     {
       "id": "1.9",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/1.9/",
       "critere": "Le service numérique a-t-il été conçu avec des technologies standard interopérables plutôt que des technologies spécifiques et fermées ?",
       "thematique": "Stratégie",
       "objectif": "L’objectif est de lutter contre l’obsolescence des équipements induite par le logiciel. Tout service numérique qui s’attachera à être le plus stable et pérenne dans le temps permettra l’allongement de la durée pendant laquelle les terminaux restent utilisables. Typiquement, le recours à de nouvelles interfaces de programmation (API) ou de nouveaux standards non supportés par les terminaux plus anciens sont susceptibles de favoriser une obsolescence rapide des terminaux. Ainsi, l’interopérabilité des standards est un vecteur pour allonger la durée d’utilisation et de vie de ces derniers. De même, les applications natives peuvent avoir besoin des dernières versions d’OS (système d’exploitation) ou même les dernières versions des équipements pour fonctionner, ce qui induit une obsolescence des matériels.",
@@ -193,6 +202,7 @@
     },
     {
       "id": "1.10",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/1.10/",
       "critere": "Le service numérique repose-t-il sur des API documentées et ouvertes pour interagir avec le matériel pour interagir avec le matériel ?",
       "thematique": "Stratégie",
       "objectif": "Un objet connecté ou un périphérique interagit avec son environnement via des API (interfaces d'accès dédiées aux programmes), généralement appelées via un programme appelé « pilote » ou « driver », ou une application sur un smartphone.\n\n- Lorsque ces API ne sont pas ouvertes, il est souvent impossible de prolonger la durée de vie de l’objet au-delà de celle de l’application ou pilote initialement conçue pour l’objet : si ce logiciel est abandonné, un objet ou un périphérique parfaitement fonctionnel devient inutilisable.\n- Lorsque les API sont ouvertes (documentées et d’usage libre), il est possible pour un développeur tiers de développer une application alternative et prolonger la vie de l’objet ou périphérique.\n\nLe logiciel libre permet de pallier cette obsolescence à condition que les API et formats soient documentés et ouverts, seul moyen pour des développeurs tiers de logiciels de développer des alternatives et prolonger la vie de ces objets ou périphériques. Cela permet également de faire fonctionner l’objet connecté ou le périphérique sur des systèmes d’exploitation non supportés par le concepteur du matériel.",
@@ -209,6 +219,7 @@
     },
     {
       "id": "2.1",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/2.1/",
       "critere": "Le service numérique a-t-il défini la liste des profils de matériel que les utilisateurs vont pouvoir employer pour y accéder ?",
       "thematique": "Spécifications",
       "objectif": "Un service numérique n’exploitant que des ressources techniques de toute dernière génération peut conduire les utilisateurs à renouveler leurs équipements afin d’y accéder (obsolescence matérielle). Ainsi, certaines utilisations peuvent être contraintes par les terminaux des utilisateurs. Pour permettre un choix plus large d’équipements même anciens et limiter le renouvellement de matériel, il est important de connaître les profils de matériel que les utilisateurs vont pouvoir employer, aujourd’hui et demain : débit minimum de la connexion internet, taille d’écran, vitesse du microprocesseur, nombre de Go de mémoire vive, écran tactile ou non, smartphone, tablette, ordinateur portable, ordinateur de bureau, etc.",
@@ -225,6 +236,7 @@
     },
     {
       "id": "2.2",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/2.2/",
       "critere": "Le service numérique est-il utilisable sur d’anciens modèles de terminaux ?",
       "thematique": "Spécifications",
       "objectif": "Selon l’étude ADEME-Arcep, les terminaux représentent 65 à 90% de l’empreinte environnementale du numérique selon l’indicateur considéré, en particulier leur fabrication. L’allongement de la durée de vie des terminaux est donc un levier essentiel de réduction des impacts environnementaux du numérique. Le service numérique doit limiter sa contribution à leur obsolescence en fonctionnant sur des équipements les plus anciens possibles.",
@@ -241,6 +253,7 @@
     },
     {
       "id": "2.3",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/2.3/",
       "critere": "Le service numérique est-il utilisable via une connexion bas débit ou hors connexion ?",
       "thematique": "Spécifications",
       "objectif": "Si le service numérique s’adresse à un large public, le niveau de connectivité n’est pas maîtrisé. Il est nécessaire de veiller à ne pas exclure certains publics qui n’ont pas accès à de hauts débits : en plus de permettre de réduire la fracture numérique, il s’agit d’une bonne pratique pour l’environnement. En effet, les utilisateurs n’ont pas toujours conscience de ce qui ralentit un service numérique : la connexion réseau, le service numérique ou le terminal utilisé ? Un service numérique plus léger a beaucoup moins besoin de ressources réseaux pour fonctionner.",
@@ -257,6 +270,7 @@
     },
     {
       "id": "2.4",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/2.4/",
       "critere": "Le service numérique est-il utilisable sur d’anciennes versions du systèmes d’exploitation et navigateurs web ?",
       "thematique": "Spécifications",
       "objectif": "L’objectif est de permettre à des systèmes d’exploitation ou navigateurs web anciens d’être utilisés,afin d’allonger leur durée de vie. Les systèmes d’exploitation et les navigateurs étant parfois liés à un terminal, cette pratique peut donc partiellement permettre de réduire la contribution du service numérique à leur obsolescence. Ce critère prend en compte les dispositions européennes visant à garantir la mise à disposition de mises à jour correctives pour les systèmes d’exploitation de 5 ans.",
@@ -273,6 +287,7 @@
     },
     {
       "id": "2.5",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/2.5/",
       "critere": "Le service numérique s’adapte-t-il à différents types de terminaux d’affichage ?",
       "thematique": "Spécifications",
       "objectif": "Le service numérique devrait participer à limiter l’achat de nouveaux terminaux en fonctionnant sur des équipements aux dimensions d’écran variées, dont les plus petites (smartphones anciens par exemple). La possibilité d’un service numérique de s’adapter aux écrans avec une faible définition peut contribuer à lutter contre l’obsolescence des équipements induite par le logiciel.",
@@ -289,6 +304,7 @@
     },
     {
       "id": "2.6",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/2.6/",
       "critere": "Le service numérique a-t-il été conçu avec une revue de conception et une revue de code en ayant pour un des objectifs de réduire les impacts environnementaux de chaque fonctionnalité ?",
       "thematique": "Spécifications",
       "objectif": "Afin d’aboutir à une solution la plus sobre possible tout en répondant au besoin, il faut miser sur l’intelligence collective de toute l’équipe. Et pour cela, il ne suffit pas seulement de valider la conception par la revue de code, une bonne pratique maintenant assez répandue. Il est nécessaire, et cela sera positif pour l’équipe et pour le projet, de réfléchir en amont du développement, aux choix de conception et d’architecture, en ayant pour un des objectifs la minimisation des impacts environnementaux.",
@@ -305,6 +321,7 @@
     },
     {
       "id": "2.7",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/2.7/",
       "critere": "Le service numérique a-t-il prévu une stratégie de maintenance et de décommissionnement ?",
       "thematique": "Spécifications",
       "objectif": "Mettre au rebut les environnements techniques encore actifs mais qui ne sont plus utilisés : production, QA (Quality Assurance), test, environnement de développement, sauvegarde etc. Ces environnements peuvent occuper de la ressource informatique inutilement. Il s’agit également de prévoir la possible fin de vie de tout ou partie du service.",
@@ -320,6 +337,7 @@
     },
     {
       "id": "2.8",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/2.8/",
       "critere": "Le service numérique impose-t-il à ses fournisseurs de garantir une démarche de réduction de leurs impacts environnementaux ?",
       "thematique": "Spécifications",
       "objectif": "Un projet est rarement réalisé avec un périmètre couvert totalement au sein de l’organisation. De nombreuses ressources externes sont mobilisées au cours du projet et se doivent d’être alignées avec la démarche. L’écoconception d’un service numérique devrait s’appuyer sur une responsabilisation environnementale de toute la chaîne de valeur, y compris des fournisseurs externes. Il est essentiel de veiller à ce que les fournisseurs adoptent une approche de réduction de leurs impacts environnementaux.",
@@ -336,6 +354,7 @@
     },
     {
       "id": "2.9",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/2.9/",
       "critere": "Le service numérique a-t-il pris en compte les impacts environnementaux des composants d’interface prêts à l’emploi utilisés ?",
       "thematique": "Spécifications",
       "objectif": "Connaitre les impacts environnementaux des composants d’interface (bouton, formulaires...), des systèmes de design qui sont des surcouches aux interfaces du système d’exploitation, utilisés dans le service numérique.",
@@ -352,6 +371,7 @@
     },
     {
       "id": "2.10",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/2.10/",
       "critere": "Le service numérique a-t-il pris en compte les impacts environnementaux des services tiers utilisés lors de leur sélection ?",
       "thematique": "Spécifications",
       "objectif": "Les services de tiers sont des services proposés par des fournisseurs externes (développeurs, organismes ou entreprises) apportant des fonctionnalités prêtes à l’emploi (par exemple suivi d’audience, lecteur vidéo, fil d’actualités des réseaux sociaux, mécanisme de captcha...) et évitant ainsi de les redévelopper en interne. L’objectif est donc de réduire les impacts environnementaux des services tiers, donc non issus de développement interne.",
@@ -368,6 +388,7 @@
     },
     {
       "id": "3.1",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/3.1/",
       "critere": "Le service numérique repose-t-il sur une architecture, des ressources ou des composants conçus pour réduire leurs propres impacts environnementaux ?",
       "thematique": "Architecture",
       "objectif": "Le service numérique peut dépendre d’une architecture, de composants qui ne sont pas développés par la même équipe ou qui sont fournis par des frameworks de production. Il s’agit alors de s’assurer que ces dépendances sont également conçues de manière à réduire leurs propres impacts environnementaux. Certains composants sont particulièrement intensifs en termes de consommation énergétique et en ressources, et devraient être évités (par exemple : minage, réalité virtuelle/augmentée requérant l’acquisition d’un terminal dédié, certains algorithmes d’apprentissage…).",
@@ -384,6 +405,7 @@
     },
     {
       "id": "3.2",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/3.2/",
       "critere": "Le service numérique fonctionne-t-il sur une architecture pouvant adapter la quantité de ressources utilisées en fonction de la consommation du service ?",
       "thematique": "Architecture",
       "objectif": "L’objectif est d’éviter une architecture surdimensionnée et de privilégier une architecture capable d'ajuster dynamiquement la quantité de ressources utilisées en fonction de la demande du service et de passer à l’échelle. Cela contribue à optimiser l'efficacité énergétique et à éviter le gaspillage de ressources inutiles.",
@@ -400,6 +422,7 @@
     },
     {
       "id": "3.3",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/3.3/",
       "critere": "Le service numérique a-t-il pris en compte l’évolution technique des protocoles ?",
       "thematique": "Architecture",
       "objectif": "Le choix des protocoles sous-jacents aux échanges réseaux associés au service numérique développé a un impact sur la sollicitation des infrastructures, mais aussi sur la durée de vie du service numérique. En effet, les évolutions techniques des protocoles non supportées par le service numérique peuvent conduire à des dysfonctionnements de certains modules ou fonctionnalités de celui-ci. Prendre en compte ces risques d’obsolescence pour faire les meilleurs choix en matière de protocole permettra de limiter les mises à jour/modernisations nécessaires, et rendra ainsi le service numérique plus durable et pérenne. L’objectif est donc de limiter l’obsolescence du service induite par l’obsolescence des protocoles utilisés, en tenant compte particulièrement des éléments suivants :\n\n- Protocole d’adressage : face à la pénurie d’IPv4 et la généralisation d’IPv6 (à moyen terme, certains accès à internet ne proposeront plus de connectivité IPv4), un service disponible en IPv6 en assure sa pérennité. Ce choix permet aussi de limiter le nombre de plateformes nécessaires et la consommation d’énergie associée chez les opérateurs ayant recours à du partage d’IPv4 entre client. L’IPv6 n’a pas besoin de passer par la plateforme CG-Nat qui est coûteuse en matériel et en énergie ([voir la présentation vidéo « Adressage et transition IPv6 » de décembre 2023](https://www.dailymotion.com/video/x8qpqtz)-).\n- Protocole de chiffrement/d’authentification : les navigateurs tendent vers le blocage du protocole HTTP et l’obligation d’utiliser HTTPS, qui devient donc le choix le plus pérenne. En outre, la couche de chiffrement TLS doit être adaptés à l’évolution de ce protocole puisque les anciennes versions de TLS (TLS v1.0 et TLS v1.1) ne sont plus prises en charge par les navigateurs web.\n- Protocole d’échanges de données : s’assurer de l’adéquation entre le choix du protocole et le type des contenus échangés.",
@@ -416,6 +439,7 @@
     },
     {
       "id": "3.4",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/3.4/",
       "critere": "Le service numérique garantit-il la mise à disposition de mises à jour correctives pendant toute la durée de vie prévue des équipements et des logiciels liés au service ?",
       "thematique": "Architecture",
       "objectif": "L’obsolescence du logiciel commercialisé avec un équipement lié à un service numérique (par exemple objet connecté) rend souvent l’équipement inutilisable, alors que sa durée de vie pourrait être prolongée si le logiciel était maintenu plus longtemps. Cela revêt une importance particulière dans le contexte du développement de l'Internet des objets (IoT), caractérisé par des équipements connectés nécessitant une maintenance continue pour garantir leur fonctionnement optimal, leur sécurité et leur interopérabilité. L’objectif est donc de limiter la contribution à l’obsolescence des équipements liés au service en assurant la disponibilité de mises à jour correctives tout au long de leur durée de vie prévue.",
@@ -432,6 +456,7 @@
     },
     {
       "id": "3.5",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/3.5/",
       "critere": "Le service numérique propose-t-il d’installer des mises à jour correctives indépendamment des mises à jour évolutives de façon transparente ? ?",
       "thematique": "Architecture",
       "objectif": "Depuis l’ordonnance n° 2021-1247 en date du 29 septembre 2021 relative à la garantie légale de conformité pour les biens, les contenus numériques et les services numériques, le Code de la consommation prévoit plusieurs obligations concernant les mises à jour logicielles afin de garantir la réception des mises à jour nécessaires à la conformité des biens pendant toute la durée de garantie légale de conformité (deux ans ou plus), ou toute la durée du contrat si la fourniture du bien est garantie au-delà de deux ans. Par ailleurs, plusieurs obligations sont définies pour les vendeurs concernant les mises à jour non nécessaires à la conformité du bien en termes d’information au consommateur et de possibilité de refus et de désinstallation de la mise à jour par ce dernier.\n\nDans la continuité de ces dispositions, l’objectif de ce critère est donc de limiter la contribution à l’obsolescence des équipements en permettant à l’utilisateur d’opter uniquement pour les mises à jour nécessaires au bon fonctionnement, à la sécurité et à la conformité du service ou de l’appareil. Cette dissociation peut aussi éviter l’ajout de fonctionnalités « de confort » pouvant être inutilisables sur son appareil ou exiger des ressources matérielles ou informatiques supplémentaires susceptibles de favoriser une obsolescence rapide des terminaux.\n\nCe critère vise également à promouvoir les politiques de support à long terme (« Long-term support ») et le fonctionnement du service numérique sur des systèmes d’exploitation d’ancienne génération. Il s’agira également d’accroître la transparence de l’information sur le type de mises à jour installées et de prévenir les risques d’obésiciel (ce terme désigne la surallocation de ressources systèmes ou matérielles pour un service, en particulier avec l’inclusion de nouvelles versions ou de fonctionnalités qui ne sont pas indispensables).",
@@ -448,6 +473,7 @@
     },
     {
       "id": "3.6",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/3.6/",
       "critere": "Le service numérique propose-t-il les mises à jour incrémentielles, afin de ne pas remplacer tout le code à chaque mise à jour ?",
       "thematique": "Architecture",
       "objectif": "La mise à jour des applications peut consommer beaucoup de données si l’ensemble du code du service numérique est mis à jour. Ce critère vise à réduire drastiquement la quantité de données nécessaire pour une mise à jour. Cela implique de limiter les mises à jour aux ajouts incrémentaux.",
@@ -465,6 +491,7 @@
     },
     {
       "id": "3.7",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/3.7/",
       "critere": "Le service numérique optimise-t-il la sollicitation des environnements de développement, de préproduction ou de test en fonction de ses besoins ?",
       "thematique": "Architecture",
       "objectif": "Faire fonctionner des serveurs ou machines virtuelles inutilisés consomme des ressources. Ce critère vise à limiter cette perte en optimisant l’utilisation des environnements de développement, de préproduction ou de test grâce à la mutualisation ou l’extinction de leur fonctionnement sur les plages horaires où ils sont inutilisés.",
@@ -481,6 +508,7 @@
     },
     {
       "id": "4.1",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/4.1/",
       "critere": "Le service numérique comporte-t-il uniquement des éléments animations, vidéos et sons dont la lecture automatique est désactivée ?",
       "thematique": "UX/UI",
       "objectif": "Plus un utilisateur passe de temps sur un site ou une application, plus l’empreinte environnementale associée à cet usage sera élevée, les ressources réseaux et systèmes sur le terminal étant mobilisées plus longtemps. S’il appartient bien entendu à l’utilisateur de décider quel temps il souhaite consacrer à tel ou tel usage, les pratiques de développement du site ou de l’application concernée peuvent avoir un impact direct sur cette durée d’utilisation, en particulier par l’exploitation de pratiques de captation de l’attention.\n\nLe lancement automatique de contenus, en particulier de vidéos, fait partie des mécanismes mis en place pour garder l'utilisateur en état d'attention. Le déclenchement de contenus et leur pré-chargement sans consentement de l’utilisateur doit être évité dans une perspective de sobriété des usages.\n\nCe critère permet de donner le contrôle à l’utilisateur pour limiter l’usage de ressources non nécessaires.",
@@ -497,6 +525,7 @@
     },
     {
       "id": "4.2",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/4.2/",
       "critere": "Le service numérique affiche-t-il uniquement des contenus sans défilement de page infini ?",
       "thematique": "UX/UI",
       "objectif": "Les « murs de contenu » font partie des stratégies de captation de l’attention de certaines plateformes numériques qui contribuent à l’augmentation de l’empreinte environnementale des services numériques. L’objectif est donc de réduire la conception de services numériques reposant sur un design de « mur de contenus », de liste ou d'enchaînement infini de contenus, ce qui augmente le temps passé sur la page, et donc le poids de cette dernière ainsi que les ressources nécessaires.",
@@ -513,6 +542,7 @@
     },
     {
       "id": "4.3",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/4.3/",
       "critere": "Le service numérique optimise-t-il le parcours de navigation pour chaque fonctionnalité principale ?",
       "thematique": "UX/UI",
       "objectif": "Minimiser le temps passé par l’utilisateur sur le service numérique et maîtriser les impacts environnementaux des fonctionnalités principales du service, tout en améliorant l’expérience utilisateur.",
@@ -529,6 +559,7 @@
     },
     {
       "id": "4.4",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/4.4/",
       "critere": "Le service numérique permet-il à l’utilisateur de décider de l’activation d’un service tiers ?",
       "thematique": "UX/UI",
       "objectif": "Limiter le chargement de services tiers non nécessaires au bon fonctionnement du service. Par exemple, sans activation des cookies, certains lecteurs vidéo sont désactivés et en attente de consentement pour le visionnage la vidéo.",
@@ -545,6 +576,7 @@
     },
     {
       "id": "4.5",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/4.5/",
       "critere": "Le service numérique utilise-t-il majoritairement des composants fonctionnels natifs du système d’exploitation, du navigateur ou du langage utilisé ?",
       "thematique": "UX/UI",
       "objectif": "Les composants fonctionnels sont par exemple des composants d’interface (menu, bouton, formulaire…). Généralement, les composants natifs d’un système n’ont besoin que de peu de ressources pour fonctionner, contrairement à des composants développés en surcouche. Dans cette perspective, il peut donc être préférable d’encourager l’utilisation de composants natifs d’un système plutôt que le recours à des composants développés en surcouche.",
@@ -560,6 +592,7 @@
     },
     {
       "id": "4.6",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/4.6/",
       "critere": "Le service numérique utilise-t-il uniquement du contenu vidéo, audio et animé porteur d’informations ?",
       "thematique": "UX/UI",
       "objectif": "Une partie importante du trafic sur internet est liée au visionnage de vidéos. Les contenus audio et animés représentent également une taille plus importante que le texte et l’image.\n\nDans une démarche d’écoconception, il est pertinent de minimiser le recours à des contenus médias lourds ayant un but purement esthétique, pour favoriser des solutions alternatives quand elles sont possibles.",
@@ -575,6 +608,7 @@
     },
     {
       "id": "4.7",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/4.7/",
       "critere": "Le service numérique opte-t-il pour les choix les plus sobres entre le texte, l’image, l’audio ou la vidéo, selon les besoins utilisateurs ?",
       "thematique": "UX/UI",
       "objectif": "Réduire le poids des ressources utilisées, sachant qu’une vidéo pèse généralement beaucoup plus lourd qu’un texte contenant des images.",
@@ -591,6 +625,7 @@
     },
     {
       "id": "4.8",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/4.8/",
       "critere": "Le service numérique limite-t-il la taille des polices de caractères téléchargées ?",
       "thematique": "UX/UI",
       "objectif": "Le téléchargement de polices de caractères peut alourdir un service numérique et les ressources informatiques nécessaires à son fonctionnement. Minimiser le nombre de polices téléchargées permet d’accélérer le chargement du service numérique, de potentiellement diminuer les transferts de données à des tiers et de réduire l’empreinte environnementale du service.\nL’objectif est donc de limiter le nombre de polices de caractères utilisées pour privilégier, lorsque cela est possible, des polices nativement disponibles, afin de ne pas avoir besoin d’un téléchargement spécifique de la police utilisée. Il s’agit également de réduire la taille des polices téléchargées.",
@@ -606,6 +641,7 @@
     },
     {
       "id": "4.9",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/4.9/",
       "critere": "Le service numérique limite-t-il les requêtes serveur lors de la saisie utilisateur ?",
       "thematique": "UX/UI",
       "objectif": "Une partie de l’empreinte énergétique des services numériques est liée à la volumétrie des données échangées sur les réseaux. L’objectif est donc de réduire la volumétrie de données pour le service en évitant de réaliser des requêtes client/serveur inutiles (par exemple dans un contexte de formulaire, de suggestion de résultats, etc.). Dans la plupart des cas, cette réduction pourra se faire sans dégradation de l’expérience utilisateur.",
@@ -621,6 +657,7 @@
     },
     {
       "id": "4.10",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/4.10/",
       "critere": "Le service numérique informe-t-il l’utilisateur du format de saisie attendu, en évitant les requêtes serveur inutiles pour la soumission d’un formulaire ?",
       "thematique": "UX/UI",
       "objectif": "Limiter les échanges clients / serveurs en vérifiant la saisie du côté du terminal utilisateur en réduisant ainsi les erreurs de saisie et les soumissions de formulaires incorrects qui nécessiteraient un retour vers le serveur pour une correction.",
@@ -636,6 +673,7 @@
     },
     {
       "id": "4.11",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/4.11/",
       "critere": "Le service numérique informe-t-il l’utilisateur, avant le transfert, des poids et formats de fichier attendus ?",
       "thematique": "UX/UI",
       "objectif": "Limiter les échanges clients / serveurs de fichiers volumineux en informant l’utilisateur des prérequis attendus.",
@@ -651,6 +689,7 @@
     },
     {
       "id": "4.12",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/4.12/",
       "critere": "Le service numérique indique-t-il à l’utilisateur que l’utilisation d’une fonctionnalité a des impacts environnementaux importants ?",
       "thematique": "UX/UI",
       "objectif": "Matérialiser pour l’utilisateur les impacts environnementaux des actions les plus coûteuses. Informer les utilisateurs en amont des impacts environnementaux avant l’utilisation d’une fonctionnalité, lorsque cette dernière est plus coûteuse par rapport au reste du service.",
@@ -668,6 +707,7 @@
     },
     {
       "id": "4.13",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/4.13/",
       "critere": "Le service numérique limite-t-il le recours aux notifications, tout en laissant la possibilité à l’utilisateur de les désactiver ?",
       "thematique": "UX/UI",
       "objectif": "De nombreuses applications sont configurées par défaut pour adresser à l’utilisateur des notifications sur leur terminal. Il s’agit d’incitations à l’usage du service et du terminal associé (le cas échéant). L’objectif est donc de réduire l’usage de ressources informatiques en évitant d’attirer inutilement l’attention de l’utilisateur ou en consommant inutilement des ressources informatiques.\n\nIl convient donc de minimiser le nombre de notifications, de réfléchir à leur inclusion par défaut dans le design du service numérique et de donner à l’utilisateur la possibilité de les désactiver.",
@@ -683,6 +723,7 @@
     },
     {
       "id": "4.14",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/4.14/",
       "critere": "Le service numérique évite-t-il le recours à des procédés manipulatoires dans son interface utilisateur ?",
       "thematique": "UX/UI",
       "objectif": "Prévenir l'utilisation de dark patterns ou procédés manipulatoires dans l'interface utilisateur afin d'assurer le contrôle des utilisateurs de leurs usages numériques. Les dark patterns sont des éléments de conception volontairement mis en place pour tromper ou manipuler les utilisateurs et pour en influencer le comportement. Depuis l’entrée en vigueur du paquet législatif sur les services numériques (le DSA ou « Digital Services Act », [règlement 2022/2065)](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32022R2065) en 2022, la conception ou l’exploitation d’interfaces en ligne trompeuses ou destinées à manipuler le destinataire du service par les fournisseurs de plateformes en ligne est proscrite. Dans la continuité de ces obligations légales, l’objectif de ce critère est d’éviter le recours à des éléments manipulatoires dans l’interface utilisateur susceptibles d’engendrer des surcroîts d’usages en ligne, responsables de coûts environnementaux additionnels.",
@@ -695,6 +736,7 @@
     },
     {
       "id": "4.15",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/4.15/",
       "critere": " Le service numérique fournit-il à l’utilisateur un moyen de contrôle sur ses usages afin de suivre et de réduire les impacts environnementaux associés ?",
       "thematique": "UX/UI",
       "objectif": "L’objectif est la limitation de l’impact environnemental en donnant de l’autonomie à l’utilisateur pour limiter les impacts environnementaux de ses usages.",
@@ -711,6 +753,7 @@
     },
     {
       "id": "5.1",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/5.1/",
       "critere": "Le service numérique utilise-t-il un format de fichier adapté au contenu et au contexte de visualisation de chaque image ?",
       "thematique": "Contenus",
       "objectif": "La réduction des volumes de données transmises associées aux images matricielles (ou images bitmap) est un levier d’optimisation du trafic internet et de minimisation de la consommation en ressources associée. L’objectif est donc d’optimiser le poids des fichiers téléchargés par les utilisateurs en utilisant des formats d’image performants.",
@@ -727,6 +770,7 @@
     },
     {
       "id": "5.2",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/5.2/",
       "critere": "Le service numérique propose-t-il des images dont le niveau de compression est adapté au contenu et au contexte de visualisation ?",
       "thematique": "Contenus",
       "objectif": "Réduire le poids des images téléchargés par les utilisateurs en augmentant le niveau de compression (et donc en dégradant légèrement la qualité) ou/et en proposant des résolutions multiples.",
@@ -742,6 +786,7 @@
     },
     {
       "id": "5.3",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/5.3/",
       "critere": "Le service numérique utilise-t-il, pour chaque vidéo, une définition adaptée au contenu et au contexte de visualisation ?",
       "thematique": "Contenus",
       "objectif": "Il arrive parfois que le contenu vidéo soit en haute définition alors que le contexte de visualisation n’en a pas besoin, ce qui a pour effet d’augmenter la consommation énergétique du terminal et la quantité de données transférées. Il est donc important d’ajuster précisément la définition vidéo par défaut au terminal utilisé et de donner de l’autonomie à l’utilisateur pour limiter les impacts environnementaux de ses usages en lui permettant de réduire ou d’augmenter la définition de la vidéo.\n\nL’objectif est ainsi de limiter les ressources informatiques et la consommation énergétique associée au visionnage de vidéos. Le critère est applicable aux vidéos diffusées en unicast, terme définissant une connexion réseau point à point, c'est-à-dire d'un hôte vers un (seul) autre hôte. C’est le mode de diffusion utilisé sur internet.\n\nLe critère n’est pas applicable au multicast/broadcast, puisque cela engendrerait une multiplication des flux contreproductive. Les diffusions de type multicast/broadcast concernent uniquement certains modes de diffusion TV (par exemple : TNT, certains flux transmis via le décodeur TV) et désigne une forme de diffusion d’un émetteur unique vers un groupe de récepteurs.",
@@ -759,6 +804,7 @@
     },
     {
       "id": "5.4",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/5.4/",
       "critere": "Le service numérique propose-t-il des vidéos dont le niveau de compression est adapté au contenu et au contexte de visualisation ?",
       "thematique": "Contenus",
       "objectif": "La majeure partie du trafic sur internet est liée au visionnage de vidéos (la vidéo représente près de 66% du trafic internet en 2022 selon le rapport Sandvine The Global Internet Phenomena Report). Or le transport de données numériques s’appuie sur des infrastructures et l’usage d’équipements et de terminaux qui ont une empreinte environnementale à minimiser. L’emploi d’un codec vidéo efficace permet de réduire significativement la bande passante utilisée.\n\nPar ailleurs, le mode de décodage du codec vidéo par le terminal influe directement sur la consommation énergétique de l’appareil. Si le codec n’est pas accéléré matériellement par le processeur graphique (GPU), la lecture vidéo sera possible, mais via le microprocesseur (CPU) et dans ce cas-là, la consommation d’énergie du terminal sera plus importante, ce qui va diminuer l’autonomie d’un terminal sur batterie et possiblement sa durée de vie.\n\nL’objectif est donc d’optimiser la taille des flux téléchargés par les utilisateurs et les ressources mobilisées grâce à l’utilisation d’un codec et d’un encodage efficace.",
@@ -775,6 +821,7 @@
     },
     {
       "id": "5.5",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/5.5/",
       "critere": "Le service numérique propose-t-il un mode « écoute seule » pour ses vidéos ?",
       "thematique": "Contenus",
       "objectif": "Une partie significative du trafic vidéo sur internet est constitué de vidéos qui sont écoutées (source : [étude de Chris Priest, de l’université de Bristol au Royaume-Uni sur l’usage d’un bouton « audio-seul » sur l’application YouTube](https://dl.acm.org/doi/fullHtml/10.1145/3290605.3300627) de mai 2019) :\n\n- Vidéos musicales utilisées en fond sonore ;\n- Podcasts filmés écoutés et non visionnés ;\n- Émissions écoutées pendant une autre activité.\n\nLe premier objectif est de réduire le trafic en permettant à l’utilisateur de couper son flux vidéo via une option « écoute seule », « audio only » , ou « zéro pixel » afin de réduire le trafic généré par la vidéo qui n’est pas regardée.\n\nLe second objectif est de réduire la consommation d’énergie des terminaux en leur permettant d’activer l’écoute de la piste audio d’une vidéo lorsque l’écran est éteint.",
@@ -790,6 +837,7 @@
     },
     {
       "id": "5.6",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/5.6/",
       "critere": "Le service numérique propose-t-il des contenus audios dont le mode de compression est adapté au contenu et au contexte d’écoute ?",
       "thematique": "Contenus",
       "objectif": "Réduire la taille des contenus audio téléchargés par les utilisateurs et donc les ressources informatiques nécessaires.",
@@ -805,6 +853,7 @@
     },
     {
       "id": "5.7",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/5.7/",
       "critere": "Le service numérique utilise-t-il un format de fichier adapté au contenu et au contexte d’utilisation pour chaque document ?",
       "thematique": "Contenus",
       "objectif": "Réduire le poids des fichiers téléchargés ou utilisés par les utilisateurs.",
@@ -822,6 +871,7 @@
     },
     {
       "id": "5.8",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/5.8/",
       "critere": "Le service numérique a-t-il une stratégie d’archivage et de suppression, automatiques ou manuelles, des contenus obsolètes ou périmés ?",
       "thematique": "Contenus",
       "objectif": "Alléger les bases de données et les serveurs physiques de données non utiles.",
@@ -839,6 +889,7 @@
     },
     {
       "id": "6.1",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/6.1/",
       "critere": "Le service numérique s’astreint-il à un poids maximum et une limite de requête par écran ?",
       "thematique": "Frontend",
       "objectif": "Réduire ou limiter les données téléchargées",
@@ -855,6 +906,7 @@
     },
     {
       "id": "6.2",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/6.2/",
       "critere": "Le service numérique utilise-t-il des mécanismes de mises en cache pour la totalité des contenus transférés dont il a le contrôle ?",
       "thematique": "Frontend",
       "objectif": "L’objectif est de réduire le poids des données échangées. Une partie de l’empreinte énergétique des services numériques est liée à la volumétrie des données échangées sur les réseaux, en particulier lorsque les données sont transmises sur des réseaux radio (réseaux mobiles par exemple). La réduction de la volumétrie des données échangées sur les réseaux pour une application donnée est donc un axe important d’écoconception. Dans la plupart des cas, cette réduction pourra se faire sans dégradation de l’expérience utilisateur.",
@@ -871,6 +923,7 @@
     },
     {
       "id": "6.3",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/6.3/",
       "critere": "Le service numérique a-t-il mis en place des techniques de compression sur la totalité des ressources transférées dont il a le contrôle ?",
       "thematique": "Frontend",
       "objectif": "Réduire la quantité de ressources transférées sur le réseau via la compression des données.",
@@ -888,6 +941,7 @@
     },
     {
       "id": "6.4",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/6.4/",
       "critere": "Le service numérique affiche-t-il majoritairement des éléments graphiques et des médias dont les dimensions d’origine correspondent aux dimensions du contexte d’affichage ?",
       "thematique": "Frontend",
       "objectif": "Réduire ou limiter les données téléchargées en proposant un redimensionnement côté serveur pour les images dans une définition trop importante. Il s’agit également de minimiser la consommation d’énergie du terminal.",
@@ -903,6 +957,7 @@
     },
     {
       "id": "6.5",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/6.5/",
       "critere": "Le service numérique évite-t-il de déclencher le chargement de ressources et de contenus inutilisés pour chaque fonctionnalité ?",
       "thematique": "Frontend",
       "objectif": "Réduire ou limiter les données téléchargées et optimiser la consommation énergétique des terminaux. Il est souvent plus simple pour l’équipe de développement de charger tous les composants, packagés dans un fichier compressé quelle que soit la fonctionnalité. Il en résulte que l’utilisateur charge des composants qui ne seront pas forcément utilisés. N’utiliser que ce qui est effectivement nécessaire au fonctionnement du service permet d’économiser de la ressource informatique.",
@@ -918,6 +973,7 @@
     },
     {
       "id": "6.6",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/6.6/",
       "critere": "Le service numérique restreint-il l’usage des capteurs des terminaux utilisateurs au besoin du service ?",
       "thematique": "Frontend",
       "objectif": "Réduire ou limiter les données échangées, dont des données personnelles (comme la webcam, le micro ou la géolocalisation, par exemple), avec le service numérique.",
@@ -934,6 +990,7 @@
     },
     {
       "id": "6.7",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/6.7/",
       "critere": "Le service numérique héberge-t-il les ressources statiques transférées dont il est l’émetteur sur un même domaine ?",
       "thematique": "Frontend",
       "objectif": "Permettre de diminuer la taille des échanges et de requêtes en utilisant HTTP/2 ou HTTP/3 à la place de HTTP/1.1 et en limitant le nombre de domaines différents pour les ressources utilisées. Il s’agit ainsi d’optimiser la sollicitation des serveurs.",
@@ -950,6 +1007,7 @@
     },
     {
       "id": "7.1",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/7.1/",
       "critere": "Le service numérique a-t-il recours à un système de cache serveur pour les données les plus utilisées ?",
       "thematique": "Backend",
       "objectif": "Limiter la consommation de ressources informatiques.",
@@ -966,6 +1024,7 @@
     },
     {
       "id": "7.2",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/7.2/",
       "critere": "Le service numérique met-il en place des durées de conservation sur les données et documents en vue de leur suppression ou archivage passé ce délai ?",
       "thematique": "Backend",
       "objectif": "Le stockage des données n'est ni illimité, ni gratuit, il a un impact environnemental et doit être optimisé. Certains services traitent de grandes quantités de données qui ne sont jamais consultées, car l'utilisateur a cessé d'utiliser le produit (mais n'a, par exemple, pas supprimé le compte) ou parce que les données sont obsolètes depuis longtemps. La limitation des durées de conservation des données personnelles figure d’ailleurs dans les obligations du RGPD.\n\nL’objectif est d’alléger les bases de données et les serveurs physiques de données non utiles.",
@@ -983,6 +1042,7 @@
     },
     {
       "id": "7.3",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/7.3/",
       "critere": "Le service numérique informe-t-il l’utilisateur d’un traitement en cours en arrière-plan ?",
       "thematique": "Backend",
       "objectif": "Éviter les requêtes simultanées provoquées par l’utilisateur s’il ne sait pas que son action est en cours de prise en compte.",
@@ -998,6 +1058,7 @@
     },
     {
       "id": "7.4",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/7.4/",
       "critere": "Le service numérique s’appuie-t-il sur un mécanisme de consensus qui minimise sa consommation de ressources ?",
       "thematique": "Backend",
       "objectif": "L’empreinte énergétique des services numériques reposant sur une technologie blockchain publique dépendra essentiellement du mécanisme de consensus choisi. Contrairement aux blockchains privées et de consortium, les blockchains publiques sont ouvertes à tout participant et doivent donc s’appuyer sur un mécanisme de consensus particulièrement sécurisé. La preuve de travail est le mécanisme de consensus utilisé qui consomme le plus d’énergie, car s’appuyant sur le minage. L’objectif est donc de réduire l’impact environnemental de la blockchain en évitant tout algorithme de consensus reposant sur le minage et en choisissant un mécanisme de consensus moins énergivore, et plus généralement, moins consommateur en ressources.",
@@ -1015,6 +1076,7 @@
     },
     {
       "id": "8.1",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/8.1/",
       "critere": "Le service numérique utilise-t-il un hébergement ayant une démarche de réduction de son empreinte environnementale ?",
       "thematique": "Hébergement",
       "objectif": "Les centres de données représentent environ 15 % de l’empreinte carbone du numérique en France et leur empreinte environnementale ne se limite pas aux émissions de GES (étude ADEME-Arcep). Il est donc important de prendre en compte dans le choix de la solution d’hébergement les pratiques du centre de données en matière environnementale. Il convient de favoriser un hébergement qui suit son empreinte environnementale et a engagé une démarche proactive pour la réduire.",
@@ -1033,6 +1095,7 @@
     },
     {
       "id": "8.2",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/8.2/",
       "critere": "Le service numérique utilise-t-il un hébergement qui fournit une politique de gestion durable des équipements ?",
       "thematique": "Hébergement",
       "objectif": "Favoriser un hébergement ayant des engagements en faveur de l’environnement concernant sa gestion des équipements : impacts environnementaux de l’achat de ces équipements, politique d’achat (achat durable, réparable), politique d’usage (upgrade, réparation par exemple) et politique de fin d’usage (réemploi et gestion des DEEE, les déchets d’équipements électriques et électroniques).",
@@ -1049,6 +1112,7 @@
     },
     {
       "id": "8.3",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/8.3/",
       "critere": "Le service numérique utilise-t-il un hébergement dont le PUE (Power Usage Effectiveness) est minimisé ?",
       "thematique": "Hébergement",
       "objectif": "Il s’agit de connaître le PUE de son hébergement et favoriser de la réduction la consommation d’énergie nécessaire au bon fonctionnement et au refroidissement des serveurs nécessaires à l’hébergement.",
@@ -1065,6 +1129,7 @@
     },
     {
       "id": "8.4",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/8.4/",
       "critere": "Le service numérique utilise-t-il un hébergement dont son WUE (Water Usage Effectiveness) est minimisé ?",
       "thematique": "Hébergement",
       "objectif": "Connaître le WUE* de son hébergement, indicateur souvent peu pris en compte., et réduire ou limiter la consommation d’eau nécessaire au refroidissement des serveurs. Éviter le stress hydrique (c’est-à-dire de pénurie d’eau potable). Le stress hydrique local peut également être pris en compte: un WUE élevé dans une zone sans stress hydrique sera moins problématique.",
@@ -1081,6 +1146,7 @@
     },
     {
       "id": "8.5",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/8.5/",
       "critere": "Le service numérique utilise-t-il un hébergement dont la consommation d’électricité est majoritairement d’origine renouvelable ?",
       "thematique": "Hébergement",
       "objectif": "L’objectif de ce critère est de promouvoir la transparence sur l’origine de la consommation électrique des centres de données et d’œuvrer à la transition énergétique, en particulier au développement des énergies renouvelables.",
@@ -1097,6 +1163,7 @@
     },
     {
       "id": "8.6",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/8.6/",
       "critere": "Le service numérique utilise-t-il un hébergement dont la localisation géographique est cohérente avec ses activités et qui minimise son empreinte environnementale ?",
       "thematique": "Hébergement",
       "objectif": "L’objectif est d’abord de privilégier un hébergement dans le pays où l’intensité carbone est peu élevée, et secondairement, dans une région où se situent la majorité des clients, afin de réduire la distance parcourue par les données et donc réduire l’infrastructure réseau mobilisée et son empreinte environnementale.",
@@ -1113,6 +1180,7 @@
     },
     {
       "id": "8.7",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/8.7/",
       "critere": "Le service numérique utilise-t-il un hébergement qui récupère la chaleur fatale produite par les serveurs ?",
       "thematique": "Hébergement",
       "objectif": "Encourager les initiatives permettant de diminuer ou de récupérer l’énergie produite, par exemple pour chauffer des bâtiments en hiver. Se reporter à la [Définition de la chaleur fatale selon l’ADEME](https://fondschaleur.ademe.fr/chaleur-fatale-2/).",
@@ -1128,6 +1196,7 @@
     },
     {
       "id": "8.8",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/8.8/",
       "critere": "Le service numérique héberge-t-il de façon distincte les données « chaudes » et « froides » ?",
       "thematique": "Hébergement",
       "objectif": "Les données chaudes sont des données utilisées alors que les données froides sont des données archivées. Utiliser des hébergements différents permettrait de réduire les impacts environnementaux.",
@@ -1144,6 +1213,7 @@
     },
     {
       "id": "8.9",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/8.9/",
       "critere": "Le service numérique duplique-t-il les données uniquement lorsque cela est nécessaire ?",
       "thematique": "Hébergement",
       "objectif": "Réduire les ressources informatiques et les ressources de stockage utilisées. \nIl s’agit de se poser la question du bon niveau de service sélectionné par rapport au besoin. Plus le taux de disponibilité demandé est haut, plus cela mobilise une infrastructure coûteuse financièrement et environnementalement.",
@@ -1161,6 +1231,7 @@
     },
     {
       "id": "8.10",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/8.10/",
       "critere": "Le service numérique tient-il compte des contraintes externes pour minimiser l’impact environnemental des calculs et transferts de données asynchrones ?",
       "thematique": "Hébergement",
       "objectif": "Planifier les calculs et transferts de données asynchrones (sauvegardes, mises à jour, entraînement…) énergivores en dehors des pics quotidiens de consommation électrique, pour les algorithmes et traitement consommateurs pouvant être décalés dans le temps.\n\nAjuster la temporalité des calculs et transferts de données asynchrones pour éviter les moments où les serveurs ou les réseaux sont le plus sollicités, de façon à éviter l’achat de nouveaux équipements pour supporter les « pics ». Préférer les transferts de données d’un terminal mobile lorsque celui-ci est connecté au réseau filaire (qui est moins sensible aux usages que le réseau mobile en termes de ressources et de consommation énergétique).",
@@ -1177,6 +1248,7 @@
     },
     {
       "id": "9.1",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/9.1/",
       "critere": "Le service numérique a-t-il interrogé la nécessité d’une phase d’entraînement pour éviter un usage non justifié et déraisonné ?",
       "thematique": "Apprentissage",
       "objectif": "La phase d’apprentissage repose sur une infrastructure numérique qui, dans certains cas, peut nécessiter l’utilisation d’un important volume de données et de calculs. Largement répandue dans le domaine de l’intelligence artificielle, la phase d’entraînement peut engendrer une grande consommation d’énergie et de ressources. L’objectif est donc de réduire l’empreinte environnementale de la phase d’apprentissage en choisissant une méthode adaptée et proportionnée aux caractéristiques du service numérique.\n\nIl s’agira donc de s’interroger sur la nécessité d’inclure une phase d’entraînement dans le service numérique. Ne pas inclure une phase d’entraînement si ce n’est pas nécessaire pour améliorer le service.",
@@ -1194,6 +1266,7 @@
     },
     {
       "id": "9.2",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/9.2/",
       "critere": "Le service numérique utilise-t-il une phase d’apprentissage avec un niveau de complexité minimisé et proportionné à l’usage effectif du service ?",
       "thematique": "Apprentissage",
       "objectif": "Mettre en question le choix de la méthode d’apprentissage pour le service numérique et choisir la méthode d’entraînement la plus frugale, adéquate et proportionnée à l’usage du service.",
@@ -1211,6 +1284,7 @@
     },
     {
       "id": "9.3",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/9.3/",
       "critere": "Le service numérique a-t-il mis en place des mécanismes visant à limiter la quantité d’entraînement nécessaire à son fonctionnement ?",
       "thematique": "Apprentissage",
       "objectif": "Limiter la phase d’entraînement utilisée par le service numérique en choisissant des modèles déjà existants et pré-entraînés. Éviter le surentraînement en maitrisant la consommation énergétique du mécanisme choisi.",
@@ -1228,6 +1302,7 @@
     },
     {
       "id": "9.4",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/9.4/",
       "critere": "Le service numérique limite-il la quantité de données utilisées pour la phase d’apprentissage au strict nécessaire ?",
       "thematique": "Apprentissage",
       "objectif": "Il s’agit de s’interroger sur les données collectées et de minimiser les impacts environnementaux associés à leur collecte et à leur traitement pour la phase d’entraînement, en privilégiant des données existantes et en limitant la collecte de nouvelles données. Ce critère est pertinent pour la phase d’apprentissage, caractérisée le plus souvent par une forte obsolescence des bases de données utilisées.\n\nComme le souligne le rapport de la CNIL « Données, Empreinte et Libertés » (2023), certains impératifs de respect de la vie privée et objectifs d’écoconception se rejoignent. ",
@@ -1246,6 +1321,7 @@
     },
     {
       "id": "9.5",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/9.5/",
       "critere": "Le service numérique optimise-t-il l’occurrence de mise à jour et de réentraînement des modèles en fonction de ses besoins et des cibles utilisatrices ?",
       "thematique": "Apprentissage",
       "objectif": "Il s’agit de questionner la fréquence des mises à jour et des réentraînements des modèles sous-jacents au service numérique en fonction des besoins réels du service (en termes de qualité et de vérifiabilité) et des besoins des cibles utilisatrices. Chaque mise à jour ou nouvel entraînement est consommateur en ressources et génère des émissions de gaz à effet de serre.",
@@ -1262,6 +1338,7 @@
     },
     {
       "id": "9.6",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/9.6/",
       "critere": "Le service numérique utilise-t-il des techniques de compression pour les modèles utilisées lors de la phase d’entraînement ?",
       "thematique": "Apprentissage",
       "objectif": "Compresser les modèles d’intelligence artificielle (réduction de complexité des modèles) pour réduire l’impact environnemental.",
@@ -1278,6 +1355,7 @@
     },
     {
       "id": "9.7",
+      "url": "https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/critere/9.7/",
       "critere": "Le service numérique utilise-t-il une stratégie d’inférence optimisée en termes de consommation de ressources et des cibles utilisatrices ?",
       "thematique": "Apprentissage",
       "objectif": "Réduire l’empreinte environnementale des modèles algorithmiques utilisés dans le domaine de l’intelligence artificielle en optimisant le besoin en ressources de leur phase d’inférence. Ce critère est particulièrement important pour l’intelligence artificielle (IA) générative. Si la phase d’entraînement a longtemps été perçue comme la plus consommatrice en énergie, le développement de l’IA générative tend à accroître la part de consommation d’énergie de la phase d’inférence, du fait du nombre de requêtes utilisateurs pour les services massivement consommés par le grand public. L’optimisation de la phase d’inférence est nécessaire pour aboutir à des modèles d’intelligence artificielle plus frugaux.",
