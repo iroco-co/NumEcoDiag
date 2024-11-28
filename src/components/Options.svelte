@@ -2,10 +2,9 @@
 
 	import { createEventDispatcher } from 'svelte';
 	let dispatch = createEventDispatcher();
-    
+    const versions=['v1','v2']
 </script>
 
-<!-- FEATURE DISABLED: uncomment this block when there are at least two versions of the rgesn (require variables "versions")
 {#if versions.length > 1}
     <form on:submit|preventDefault="{(e) => dispatch('changeVersion', { versionToApply: e.target.elements['version-selector'].value })}">
         <label>
@@ -20,7 +19,7 @@
         </label>
         <button>Valider</button>
     </form>
-{/if} -->
+{/if}
 <button on:click="{() => dispatch('exportAudit')}">Exporter les résultats (CSV)</button>
 <button on:click="{() => dispatch('buildBadge')}">Télécharger le badge HTML</button>
 <button on:click="{() => dispatch('resetAudit')}">Réinitialiser le diagnostic</button>
