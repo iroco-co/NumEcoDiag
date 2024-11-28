@@ -185,7 +185,65 @@
 			aElm.remove();
 		}
 
-		function buildBadge() {
+		function exportAuditFrago() {
+
+			// Frago sample CSV format
+
+			// "Thématiques","Critères","Évaluation"
+			// "1","1",""
+			// "4","11","oui"
+			// "4","13","NON"
+			// "4","16","NA|Parce que c’est compliqué à faire."
+
+			// Possible values for Evaluation :
+			// nc, c, na, nt
+			let csv = '"Thématiques","Critères","Évaluation"\n';
+		for(const criterion of referential.criteres) {
+			const [thematique,critere] = criterion.id.split('.');
+			csv += `"${thematique}","${critere}",`;
+			const assessed = audits[index].byCriteria[criterion.id];
+			if(assessed !== undefined) {
+				switch(assessed.status) {
+					case 'satisfied':
+						csv += '"c';
+						break;
+					case 'rejected':
+						csv += '"nc';
+						break;
+					case 'not-applicable':
+						csv += '"na';
+						break;
+					default:
+						csv += '"nt';
+						break;
+				}
+			}
+			else {
+				csv += '"nt';
+			}
+			if(assessed !== undefined) {
+				if(assessed.analysis !== undefined) {
+					csv += `|${assessed.analysis}"`;
+				}
+				else {
+					csv += '"';
+				}
+			}
+			else {
+				csv += '"';
+			}
+			csv += '\n';
+		}
+		let blob = new Blob([csv], {});
+		let aElm = document.createElement('a');
+		aElm.setAttribute('href', window.URL.createObjectURL(blob));
+		aElm.setAttribute('download', 'NumÉcoDiag.csv');
+		aElm.click();
+		aElm.remove();
+	}
+
+
+	function buildBadge() {
 			alert(`Retrouvez votre badge en HTML dans votre dossier téléchargement. Vous pouvez afficher ce badge dans vos communications losque 100% des critères sont évalués.`);
 
 			const nbOfCriteria= referential.criteres.length;
@@ -228,7 +286,9 @@
 				on:changeVersion="{(e) => changeRGESN(e.detail.versionToApply)}"
 				on:resetAudit="{() => resetAudit(undefined)}"
 				on:buildBadge="{() => buildBadge()}"
-				on:exportAudit="{exportAudit}" />
+				on:exportAudit="{exportAudit}"
+				on:exportAuditFrago="{exportAuditFrago}"
+			/>
 			<AuditForm 
 				audit="{audits[index]}" 
 				referential="{referential}" 
