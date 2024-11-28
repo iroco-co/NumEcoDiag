@@ -5,16 +5,22 @@
 
 	export let referential;
     export let audit;
-	const thematiques = [
-        'Stratégie', 
-        'Spécifications', 
-        'Architecture', 
-        'UX/UI', 
-        'Contenus', 
-        'Frontend', 
-        'Backend', 
+
+	let thematiques = [
+        'Stratégie',
+        'Spécifications',
+        'Architecture',
+        'UX/UI',
+        'Contenus',
+        'Frontend',
+        'Backend',
         'Hébergement'
     ];
+
+	const thematiquesV2 = referential.thematiques
+	if(thematiquesV2){
+		thematiques=thematiquesV2.map(it => it.nom)
+	}
 
     let dispatch = createEventDispatcher();
     let lastTheme = '';
@@ -82,7 +88,7 @@
 		{@const critereId = critere.id.replace('.', '-')}
 
         {#if isAnotherTheme(critere.thematique)}
-            <h3 id="{critere.thematique}">{critere.thematique}</h3>
+            <h3 class="foo" id="{critere.thematique}">{critere.thematique}</h3>
         {/if}
 		<div class="criterion" id="{critereId}">
 			<h4 class="criterion__title">

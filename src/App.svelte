@@ -9,8 +9,8 @@
 		import About from './components/About.svelte';
   		import Header from './components/Header.svelte';
 		
-		// const versions = ['v1']; // Available versions (stored in /public/rgesn)
-		let defaultVersion = 'v1';
+		// const versions = ['v1','v2']; // Available versions (stored in /public/rgesn)
+		let defaultVersion = 'v2';
 		let referential; // RGESN content
 		let index = 0; // Current audit index identifier
 		let audits = [ // Audits progression
